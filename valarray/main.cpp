@@ -17,6 +17,5 @@ int main() {
   cout << v4.min() << endl;
   cout << v4.max() << endl;
   cout << v4.size() << endl;
-
-  /
+  cout << v4[4];
 }
